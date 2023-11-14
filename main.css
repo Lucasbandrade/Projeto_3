@@ -1,0 +1,54 @@
+body {
+    font-family: 'Philosopher', sans-serif;
+}
+
+.navbar {
+    background-color: #FF4500;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #FF4500;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
+    color: #fff;
+}
+
+.nabar-toggler {
+    background-color: #ffeae6;
+}
+
+.section-title {
+    font-family: 'Glass Antiqua', cursive;;
+}
+
+#sobre-o-restaurante, #cardapio {
+    background-color: #ffeae6;
+}
+
+.text-colored {
+    color: #FF4500;
+}
+
+.nav-cardapio .nav-link.active,
+#fale-conosco button {
+    background-color: #FF4500;
+    color: #fff;
+}
+
+.nav-cardapio .nav-link:hover {
+    color: #FF4500;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
